@@ -1,2 +1,3 @@
 # knowthyself
-KNOW  THYSELF | a Handshake(HNS) blockchain top level domain
+[KNOWTHYSELF/](http://knowthyself.hns.is/) | a Handshake(HNS) blockchain top level domain
+
